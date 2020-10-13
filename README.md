@@ -1,2 +1,2 @@
-# Covid-19-the-Stock-Market
+# Covid-19: The Media & Stock Market
 In this project that I created in April of 2020 I analyzed how stocks had been effected from covid using the yahoo finance api. Additionally, I looked at the media, using Beautiful Soup to scrape news data and analyze how many times covid related terms were used in news headlines from February to April. I also used NLP to analyze how similar the news articles were to each other and I found that news articles got progressively more similar as covid cases rose.
